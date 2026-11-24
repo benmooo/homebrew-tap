@@ -5,23 +5,23 @@ class Lekima < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/benmooo/lekima/releases/download/v0.10.0/lekima-0.10.0-aarch64-apple-darwin.tar.gz"
-      sha256 "7d4d714c163359282515fa5db2fbf4e259a4c41ae9404a79ddd6bc09081c6e24"
+      url "https://github.com/benmooo/lekima/releases/download/v0.10.1/lekima-0.10.1-aarch64-apple-darwin.tar.gz"
+      sha256 "af0eb07603f9e50b60a5325d539633b798000050f354d6ab4a9dfe0797d47e1f"
     end
     on_intel do
-      url "https://github.com/benmooo/lekima/releases/download/v0.10.0/lekima-0.10.0-x86_64-apple-darwin.tar.gz"
-      sha256 "44e191325dc84f5206a61087a681c3d0697c7bc0061e305f2b6000228a020d1b"
+      url "https://github.com/benmooo/lekima/releases/download/v0.10.1/lekima-0.10.1-x86_64-apple-darwin.tar.gz"
+      sha256 "43f3b4da53871a80d2c623f131c56c14737b08dfd2087801e7589b94639b8a3d"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/benmooo/lekima/releases/download/v0.10.0/lekima-0.10.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "0e2339a385cc17be2a5a32042a7310ddcb20f5bfa27b6098679a35947ea0e1d0"
+      url "https://github.com/benmooo/lekima/releases/download/v0.10.1/lekima-0.10.1-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "a8c7c26fc4fa3307f5f03e061b8ac0aeaa5c244c04a2ba7e4abb802c7971216d"
     end
     on_intel do
-      url "https://github.com/benmooo/lekima/releases/download/v0.10.0/lekima-0.10.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "40bfb87c4e5f19de54e469f28f83cefd0eac7b752dff55b955e5b60842051d15"
+      url "https://github.com/benmooo/lekima/releases/download/v0.10.1/lekima-0.10.1-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "ca5abb7d979b7860e945c11ff109a5cc1c2b63bc64213c2069237fc422c4d17e"
     end
   end
 
