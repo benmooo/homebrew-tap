@@ -10,7 +10,7 @@ class Lekima < Formula
     end
     on_intel do
       url "https://github.com/benmooo/lekima/releases/download/v0.10.0/lekima-0.10.0-x86_64-apple-darwin.tar.gz"
-      sha256 "a3039af388a548ee937e45bf4d1958e3668ed03b7db85789eb731add8c87dfc5"
+      sha256 "44e191325dc84f5206a61087a681c3d0697c7bc0061e305f2b6000228a020d1b"
     end
   end
 
